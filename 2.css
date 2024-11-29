@@ -1,0 +1,13 @@
+header {
+    background-color: #34b9d4;
+    color: #fff;
+    padding: 13px 0;
+    text-align: center;
+    width: 100%;
+    font-size: 30px;
+    position: fixed;
+    top: 0;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    z-index: 3;
+}
